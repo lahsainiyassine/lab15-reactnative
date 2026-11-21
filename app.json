@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tp15-jwt-secure-storage-session",
+    "slug": "tp15-jwt-secure-storage-session",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar",
+      "expo-secure-store"
+    ]
+  }
+}
